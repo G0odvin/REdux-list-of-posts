@@ -1,9 +1,29 @@
-# React TypeScript Starter Pack
+# React-Redux(Toolkit) list of posts
 
-To use this template click `Use this template`
+We receive from the server a list of users with posts and comments for posts
 
-### Available Scripts
+# Demo
+- Demo hosted 
 
-`Deploy` - available to deploy your application to gh-pages
+# Features
+- We receive data about users, user posts, comments on user posts from the server
+- Adding comments to user posts
+- Delete comments
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Built with
+- React
+- Redux(toolkit, thunk)
+- AXIOS
+- Typescript
+- Bulma
+
+# Author
+- https://www.linkedin.com/in/anton-novyk-50453a212/
+
+# Instructions
+- First clone this repository.
+- $ git clone https://github.com/G0odvin/Redux-list-of-posts.git
+- Install dependencies. Make sure you already have nodejs & npm installed in your system.
+- $ npm install # or yarn
+- Run it
+- $ npm start # or yarn start
