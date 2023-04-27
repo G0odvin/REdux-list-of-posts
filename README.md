@@ -3,7 +3,7 @@
 We receive from the server a list of users with posts and comments for posts
 
 # Demo
-- Demo hosted 
+- Demo hosted https://g0odvin.github.io/Redux-list-of-posts/
 
 # Features
 - We receive data about users, user posts, comments on user posts from the server
